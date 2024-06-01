@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">localServer</string>
+    <string-array name="genres_array">
+        <item>Fiction</item>
+        <item>Non-fiction</item>
+        <item>Mystery</item>
+        <item>Fantasy</item>
+        <item>Biography</item>
+        <item>Science Fiction</item>
+        <item>Romance</item>
+        <item>Thriller</item>
+        <item>Self-help</item>
+    </string-array>
+</resources>
